@@ -278,13 +278,6 @@
   </url>
   
   <url>
-    <loc>https://ryuseiyellow.moe/tags/nashimoto-ui/</loc>
-    <lastmod>2024-06-20</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://ryuseiyellow.moe/tags/kikuo/</loc>
     <lastmod>2024-06-20</lastmod>
     <changefreq>weekly</changefreq>
@@ -313,6 +306,13 @@
   </url>
   
   <url>
+    <loc>https://ryuseiyellow.moe/tags/nashimoto-ui/</loc>
+    <lastmod>2024-06-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://ryuseiyellow.moe/tags/kairiki-bear/</loc>
     <lastmod>2024-06-20</lastmod>
     <changefreq>weekly</changefreq>
@@ -321,6 +321,20 @@
   
   <url>
     <loc>https://ryuseiyellow.moe/tags/kagamine-rin/</loc>
+    <lastmod>2024-06-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryuseiyellow.moe/tags/koharu-rikka/</loc>
+    <lastmod>2024-06-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryuseiyellow.moe/tags/maretu/</loc>
     <lastmod>2024-06-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -362,13 +376,6 @@
   </url>
   
   <url>
-    <loc>https://ryuseiyellow.moe/tags/koharu-rikka/</loc>
-    <lastmod>2024-06-20</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://ryuseiyellow.moe/tags/crazy-b/</loc>
     <lastmod>2024-06-20</lastmod>
     <changefreq>weekly</changefreq>
@@ -383,7 +390,14 @@
   </url>
   
   <url>
-    <loc>https://ryuseiyellow.moe/tags/maretu/</loc>
+    <loc>https://ryuseiyellow.moe/tags/haraguchi-sasuke/</loc>
+    <lastmod>2024-06-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryuseiyellow.moe/tags/kasane-teto/</loc>
     <lastmod>2024-06-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -398,20 +412,6 @@
   
   <url>
     <loc>https://ryuseiyellow.moe/tags/kaai-yuki/</loc>
-    <lastmod>2024-06-20</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://ryuseiyellow.moe/tags/haraguchi-sasuke/</loc>
-    <lastmod>2024-06-20</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://ryuseiyellow.moe/tags/kasane-teto/</loc>
     <lastmod>2024-06-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
