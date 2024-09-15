@@ -11,7 +11,7 @@
   </url>
   
   <url>
-    <loc>https://ryuseiyellow.moe/2024/09/16/Love-Eater-SLAVE-V-V-R-ft-Hatsune-Miku-Perorincho-%E3%81%BA%E3%82%8D%E3%82%8A%E3%82%93%E3%81%A1%E3%82%87%E3%81%A3%E3%80%82/</loc>
+    <loc>https://ryuseiyellow.moe/2024/09/16/Love-Eater-SLAVE-V-V-R-ft-Hatsune-Miku-Perorincho-%E3%81%BA%E3%82%8D%E3%82%8A%E3%82%93%E3%81%A1%E3%82%87%E3%81%A3/</loc>
     
     <lastmod>2024-09-15</lastmod>
     
@@ -254,14 +254,7 @@
 
   
   <url>
-    <loc>https://ryuseiyellow.moe/tags/kikuo/</loc>
-    <lastmod>2024-09-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://ryuseiyellow.moe/tags/kikuohana/</loc>
+    <loc>https://ryuseiyellow.moe/tags/mitchie-m/</loc>
     <lastmod>2024-09-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -275,21 +268,7 @@
   </url>
   
   <url>
-    <loc>https://ryuseiyellow.moe/tags/hanatan/</loc>
-    <lastmod>2024-09-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://ryuseiyellow.moe/tags/vocaloid/</loc>
-    <lastmod>2024-09-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://ryuseiyellow.moe/tags/non-vocaloid/</loc>
     <lastmod>2024-09-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -310,21 +289,14 @@
   </url>
   
   <url>
-    <loc>https://ryuseiyellow.moe/tags/mitchie-m/</loc>
-    <lastmod>2024-09-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://ryuseiyellow.moe/tags/nashimoto-ui/</loc>
-    <lastmod>2024-09-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://ryuseiyellow.moe/tags/shinsei-kamattechan/</loc>
+    <lastmod>2024-09-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryuseiyellow.moe/tags/non-vocaloid/</loc>
     <lastmod>2024-09-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -345,21 +317,35 @@
   </url>
   
   <url>
-    <loc>https://ryuseiyellow.moe/tags/maretu/</loc>
+    <loc>https://ryuseiyellow.moe/tags/nashimoto-ui/</loc>
     <lastmod>2024-09-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://ryuseiyellow.moe/tags/crazy-b/</loc>
+    <loc>https://ryuseiyellow.moe/tags/kikuo/</loc>
     <lastmod>2024-09-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://ryuseiyellow.moe/tags/enstars/</loc>
+    <loc>https://ryuseiyellow.moe/tags/kikuohana/</loc>
+    <lastmod>2024-09-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryuseiyellow.moe/tags/hanatan/</loc>
+    <lastmod>2024-09-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryuseiyellow.moe/tags/koharu-rikka/</loc>
     <lastmod>2024-09-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -401,7 +387,21 @@
   </url>
   
   <url>
-    <loc>https://ryuseiyellow.moe/tags/koharu-rikka/</loc>
+    <loc>https://ryuseiyellow.moe/tags/crazy-b/</loc>
+    <lastmod>2024-09-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryuseiyellow.moe/tags/enstars/</loc>
+    <lastmod>2024-09-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryuseiyellow.moe/tags/maretu/</loc>
     <lastmod>2024-09-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -464,13 +464,6 @@
   </url>
   
   <url>
-    <loc>https://ryuseiyellow.moe/tags/23-exe/</loc>
-    <lastmod>2024-09-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://ryuseiyellow.moe/tags/non-translation/</loc>
     <lastmod>2024-09-15</lastmod>
     <changefreq>weekly</changefreq>
@@ -479,6 +472,13 @@
   
   <url>
     <loc>https://ryuseiyellow.moe/tags/about/</loc>
+    <lastmod>2024-09-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryuseiyellow.moe/tags/23-exe/</loc>
     <lastmod>2024-09-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
